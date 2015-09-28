@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.author    = "Marcos Garcia"
   s.social_media_url   = "https://twitter.com/marcos_gn1"
   s.platform     = :ios
-  s.source       = { :git => "https://github.com/1marcosgn/UIRandomButton", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/1marcosgn/UIRandomButton.git", :tag => "0.0.1" }
   s.source_files  = "*.{h,m}"
   
 
