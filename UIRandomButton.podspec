@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
 
   # ――― Project Settings ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.requires_arc = true
-  s.dependency "FlatUIKit", "~> 1.4"
+  s.dependency "FlatUIKit", "1.6.2"
 
 
 end
