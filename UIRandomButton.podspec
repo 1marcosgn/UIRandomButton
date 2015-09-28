@@ -14,10 +14,10 @@ Pod::Spec.new do |s|
   s.social_media_url   = "https://twitter.com/marcos_gn1"
   
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  s.platform     = :ios, "8.4"
+  s.platform     = :ios, "7.0"
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  s.source       = { :git => "https://github.com/1marcosgn/UIRandomButton.git", :tag => "0.0.3" }
+  s.source       = { :git => "https://github.com/1marcosgn/UIRandomButton.git", :tag => "0.0.4" }
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.source_files  = "*.{h,m}"
