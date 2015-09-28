@@ -14,6 +14,6 @@ Pod::Spec.new do |s|
   s.source_files  = "*.{h,m}"
   s.framework  = "FlatUIKit"
   s.requires_arc = true
-  s.dependency "FlatUIKit", "~> 1.4"
+  s.dependency "FlatUIKit", "1.6.2"
 
 end
