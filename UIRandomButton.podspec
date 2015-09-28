@@ -13,6 +13,6 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/1marcosgn/UIRandomButton", :tag => "0.0.1" }
   s.source_files  = "*.{h,m}"
   s.requires_arc = true
-  s.dependency "FlatUIKit", "~> 1.4"
+  s.dependency "JSONKit", "~> 1.4"
 
 end
