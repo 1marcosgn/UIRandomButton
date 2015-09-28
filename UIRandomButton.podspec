@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.summary      = "UIRandomButton allows you to create a background color for your uibuttons."
   s.description  = "If you want to create a random color for your UIButton, probably you want to use UIRandomButton, depenging on the selection that you made, the code will create a color to represent this element in the user interface, just needs to be initialized and implemented and thats it"
   s.homepage     = "https://twitter.com/marcos_gn1"
-  s.license      = { :type => "MIT", :file => "LICENSE" }
+  s.license      = { :type => "MIT", :file => "LICENSE.txt" }
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.author    = "Marcos Garcia"
