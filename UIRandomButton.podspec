@@ -17,8 +17,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "8.4"
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  s.source       = { :git =&gt; "git@github.com:1marcosgn/UIRandomButton.git", :tag => "0.0.1" } 
-
+  s.source       = { :git => "https://github.com/1marcosgn/UIRandomButton.git", :tag => "0.0.1" }
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.source_files  = "*.{h,m}"
